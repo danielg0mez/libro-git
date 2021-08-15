@@ -1,0 +1,59 @@
+* [33mcommit 1b23e62b09f36e2506c24f38ad6b224f0eadb47e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m Author: Daniel Gomez <dgomezos@capgemini.com>
+[31m|[m Date:   Sun Aug 15 20:54:06 2021 +0200
+[31m|[m 
+[31m|[m     Added first reference
+[31m|[m 
+* [33mcommit 6ee8a01c1f80298bad4dcc4ee3033877c6f1b1fc[m
+[31m|[m Author: Daniel Gomez <dgomezos@capgemini.com>
+[31m|[m Date:   Sun Aug 15 20:19:09 2021 +0200
+[31m|[m 
+[31m|[m     Added chapter 4
+[31m|[m 
+* [33mcommit 5a94d85498e450105a3a91bc99a216f5aaf7abff[m
+[31m|[m Author: Daniel Gomez <dgomezos@capgemini.com>
+[31m|[m Date:   Fri Aug 13 13:21:35 2021 +0200
+[31m|[m 
+[31m|[m     changes
+[31m|[m 
+* [33mcommit 54a56e7de728e924af0a85b45a6e62fedd40bb99[m
+[31m|[m Author: Daniel Gomez <dgomezos@capgemini.com>
+[31m|[m Date:   Fri Aug 13 12:52:09 2021 +0200
+[31m|[m 
+[31m|[m     Accidental delete
+[31m|[m 
+* [33mcommit 06cf991aae11b38273b818e1a38feaf45ff5959e[m
+[31m|[m Author: Daniel Gomez <dgomezos@capgemini.com>
+[31m|[m Date:   Thu Aug 12 13:28:14 2021 +0200
+[31m|[m 
+[31m|[m     Added chapter 5 to index
+[31m|[m 
+* [33mcommit e58238e2da96fc6002340ed50a2d2a7623ce166d[m
+[31m|[m Author: Daniel Gomez <dgomezos@capgemini.com>
+[31m|[m Date:   Thu Aug 12 12:55:50 2021 +0200
+[31m|[m 
+[31m|[m     Added chapter 3
+[31m|[m 
+* [33mcommit 6b75c2805b36197092132afe80fbf8f65d6f3eff[m
+[31m|[m Author: Daniel Gomez <dgomezos@capgemini.com>
+[31m|[m Date:   Thu Aug 12 12:49:43 2021 +0200
+[31m|[m 
+[31m|[m     Added chapter 2
+[31m|[m 
+* [33mcommit c39595f34a462b0cef77593337ef9a660e8c4636[m
+[31m|[m Author: Daniel Gomez <dgomezos@capgemini.com>
+[31m|[m Date:   Thu Aug 12 12:45:17 2021 +0200
+[31m|[m 
+[31m|[m     Added chapter 1
+[31m|[m 
+* [33mcommit 2e0676e6bfc660ad3d19bcb590d4223de0d3d9a8[m
+[31m|[m Author: Daniel Gomez <dgomezos@capgemini.com>
+[31m|[m Date:   Thu Aug 12 12:35:00 2021 +0200
+[31m|[m 
+[31m|[m     Added chapter 3 about managing branches
+[31m|[m 
+* [33mcommit 433d08f37b457225be6df5c0f0430b8e85a825da[m
+  Author: Daniel Gomez <dgomezos@capgemini.com>
+  Date:   Thu Aug 12 12:24:40 2021 +0200
+  
+      Added chapter 3 about managing branches to the index
